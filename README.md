@@ -1,4 +1,5 @@
 # C++ Programming hws
-HW from NTUEE C++ programming ( with pdf explaining hw in each folder)  
-code in this repo can all work perfectly  
-final score (total): A+
+HW from NTUEE C++ programming
+please check the pdf explaining hw in each folder
+all code in this repo can work perfectly  
+
